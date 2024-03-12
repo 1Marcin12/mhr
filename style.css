@@ -1,0 +1,31 @@
+button {
+    background-color: #02857f;
+    border: none;
+    color: white;
+    padding: 15px 35px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-table;
+    font-size: 20px;
+}
+
+body {
+    background: linear-gradient(90deg, rgb(0, 255, 76) 0%, rgb(102, 255, 0) 35%, rgb(255, 251, 0) 100%);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: rgba(2, 156, 97, 0.856);
+    text-align: center;
+}
+
+input {
+    background-color: #00ffbf;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    color: rgb(8, 138, 245);
+    padding: 7px 16px;
+    text-align: rtl;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
